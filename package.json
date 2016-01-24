@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/dominykas/shelljs-issue-197#readme",
   "dependencies": {
-    "shelljs": "0.5.0"
+    "shelljs": "0.5.x"
   }
 }
