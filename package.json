@@ -1,0 +1,23 @@
+{
+  "name": "shelljs-issue-197",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reproduces https://github.com/shelljs/shelljs/issues/197",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominykas/shelljs-issue-197.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominykas/shelljs-issue-197/issues"
+  },
+  "homepage": "https://github.com/dominykas/shelljs-issue-197#readme",
+  "dependencies": {
+    "shelljs": "0.5.0"
+  }
+}
